@@ -39,6 +39,7 @@ body {
   height: 60px;
   display: flex;
   align-items: center;
+  justify-content: center;
   position: relative;
   transition: color 0.3s;
   font-size: 12px;
